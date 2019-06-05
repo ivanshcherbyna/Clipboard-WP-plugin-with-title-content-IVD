@@ -25,9 +25,9 @@ Stable tag: 1.0
 
 ## == Description ==
 
-At first - this plugin created for add your own fields and additional content in clipboard.
-Just Activate plugin for adding source link (your site with title from current page).
-At first this plugin will add copyright protection.
+At first – this plugin created to add your own fields and additional content in clipboard.
+Just Activate plugin for adding source link (your site with a title from the current page).
+At first, this plugin will add copyright protection.
 
 
 ## = Summary =
