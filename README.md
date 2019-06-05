@@ -40,7 +40,7 @@ In admin page you can fill add params for addition content after source link (in
 Enjoy!
 
 
-#== Installation ==
+# == Installation ==
 
 ## = AUTOMATIC INSTALLATION =
 First of all you need to install [plugin repository](https://wordpress.org/plugins/clipboard-with-title-content-ivd/).
@@ -66,15 +66,13 @@ and recommended rename "trunk" -> "Clipboard-IVD"
 
 ## == Screenshots ==
 
-![image](http://plugins.svn.wordpress.org/clipboard-with-title-content-ivd/assets/screenshot-1.png )
-![image](http://plugins.svn.wordpress.org/clipboard-with-title-content-ivd/assets/screenshot-2.png )
-![image](http://plugins.svn.wordpress.org/clipboard-with-title-content-ivd/assets/screenshot-3.png )
-![image](http://plugins.svn.wordpress.org/clipboard-with-title-content-ivd/assets/screenshot-4.png )
+![Screenshot](https://raw.github.com/ivanshcherbyna/Clipboard-WP-plugin-with-title-content-IVD/master/assets/screenshot-1.png )
+![Screenshot](https://raw.github.com/ivanshcherbyna/Clipboard-WP-plugin-with-title-content-IVD/master/assets/screenshot-2.png )
+![Screenshot](https://raw.github.com/ivanshcherbyna/Clipboard-WP-plugin-with-title-content-IVD/master/assets/screenshot-3.png )
+![Screenshot](https://raw.github.com/ivanshcherbyna/Clipboard-WP-plugin-with-title-content-IVD/master/assets/screenshot-4.png )
 ## == Changelog ==
-`` 
 empty
-``
-####= 1.0 =
+#### = 1.0 =
 
 * First version 1.0 in repo
 
