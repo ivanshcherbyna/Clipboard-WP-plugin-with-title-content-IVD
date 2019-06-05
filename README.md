@@ -56,9 +56,9 @@ First of all you need to install [plugin repository](https://wordpress.org/plugi
 ## = MANUAL INSTALLATION =
 `` 
 for use only get /trunk folder - because in WP this is a root folder
-and recommended rename "trunk" -> "Clipboard-IVD"
+and recommended rename "trunk" -> "clipboard-with-title-content-ivd"
 ``
-1. Copy the entire /Clipboard-IVD/ directory into your /wp-content/plugins/ directory.
+1. Copy the entire /clipboard-with-title-content-ivd/ directory into your /wp-content/plugins/ directory.
 
 2. Activate the plugin.
 
